@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-business",
-  "description": "Gatsby Business Website Starter",
-  "author": "Vaibhav Sharma",
+  "name": "gamier-gatsby-starter",
+  "description": "Welcome to Gamier - a place full of programming ideas and hacks",
+  "author": "Junaid Anwar",
   "version": "2.1.1",
   "license": "MIT",
   "scripts": {
