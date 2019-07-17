@@ -43,7 +43,9 @@
     "react-disqus-comments": "^1.4.0",
     "react-dom": "^16.7.0",
     "react-helmet": "^5.2.0",
+    "react-landing-page": "^2.0.2",
     "react-share": "^2.4.0",
+    "styled-components": "^4.3.2",
     "uglifyjs-webpack-plugin": "^2.1.1"
   },
   "remarkConfig": {
