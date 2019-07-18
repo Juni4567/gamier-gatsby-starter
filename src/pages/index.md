@@ -10,6 +10,10 @@ offerings:
   blurbs:
     - image: /img/coffee-gear.png
       text: dfdsf
+    - image: /img/coffee.png
+      text: sd dsf dsfdsdf dsf ds
+    - image: /img/meeting-space.png
+      text: ds d fds fdsf dd fdsdsfds fdsf dsfdsfdfdsf
 testimonials:
   - author: Kenelm Nataniel
     quote: >-
