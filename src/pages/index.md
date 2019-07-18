@@ -7,7 +7,9 @@ description: >-
   We at Gamier strive to bring you the smartest takes on topics that matter. We
   also upload free softwares books and games.
 offerings:
-  blurbs: []
+  blurbs:
+    - image: /img/coffee-gear.png
+      text: dfdsf
 testimonials:
   - author: Kenelm Nataniel
     quote: >-
