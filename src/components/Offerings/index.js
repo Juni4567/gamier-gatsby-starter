@@ -14,6 +14,7 @@ const Offerings = ({ gridItems }) => (
             <img alt="" src={item.image} />
           </p>
           <p>{item.text}</p>
+          <p>{item.heading}</p>
         </section>
       </div>
     ))}
