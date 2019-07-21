@@ -30,5 +30,3 @@ meta_description: >-
   We at Gamier strive to bring you the smartest takes on topics that matter. We
   also upload free softwares books and games.
 ---
-
-JUNI NDSKF JDSLKFJ DSLKFJDS
