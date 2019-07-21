@@ -3,9 +3,8 @@ templateKey: home-page
 title: Welcome to Gamier
 heading: A place full of programming ideas and hacks
 description: >-
-  Welcome to Gamier , we share ideas and free softwares to help each other grow.
-  We at Gamier strive to bring you the smartest takes on topics that matter. We
-  also upload free softwares books and games.
+  We design and deliver digital solutions for growing startups, join forces with
+  like-minded creative agencies, and build exceptional products.
 offerings:
   blurbs:
     - image: /img/coffee-gear.png
