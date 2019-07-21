@@ -30,6 +30,19 @@ offerings:
       text: >-
         Scrape from given sources with installation on your server and testing
         in less than 5 days.
+    - heading: Design Services
+      image: /img/design-services.jpg
+      text: >-
+        We craft and develop unique, powerful brands that engage and compel your
+        target audience via our range of print design, digital design and
+        branding services.
+    - heading: Travel Technology
+      image: /img/travel-technology.jpg
+      text: >-
+
+        Our bespoke travel technology solutions including travel websites, tour
+        operator, travel and ticket booking systems have processed over £1.5
+        billion during the past 20 years.
 testimonials:
   - author: Kenelm Nataniel
     quote: >-
