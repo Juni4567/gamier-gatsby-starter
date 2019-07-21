@@ -42,6 +42,8 @@ export const pageQuery = graphql`
         heading
         description
         offerings {
+          heading
+          subheading
           blurbs {
             heading
             image

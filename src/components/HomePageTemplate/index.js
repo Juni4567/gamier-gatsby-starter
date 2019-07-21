@@ -77,6 +77,8 @@ HomePageTemplate.propTypes = {
   heading: PropTypes.string,
   description: PropTypes.string,
   offerings: PropTypes.shape({
+    heading: PropTypes.string,
+    subheading: PropTypes.string,
     blurbs: PropTypes.array
   }),
   testimonials: PropTypes.array

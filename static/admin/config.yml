@@ -30,7 +30,7 @@ collections:
               fields:
                 [
                   {
-                    label: Blurbs,
+                    label: Services,
                     name: blurbs,
                     widget: list,
                     fields:
