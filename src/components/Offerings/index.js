@@ -10,11 +10,11 @@ const Offerings = ({ gridItems }) => (
         style={{ borderRadius: "5px" }}
       >
         <section className="section">
-          <p className="has-text-centered">
+          <div className="has-text-centered">
             <img alt={item.heading} src={item.image} />
-          </p>
+          </div>
+          <h3>{item.heading}</h3>
           <p>{item.text}</p>
-          <p>{item.heading}</p>
         </section>
       </div>
     ))}
