@@ -26,6 +26,7 @@ const HomePageTemplate = ({
       <meta name="description" content={meta_description} />
     </Helmet>
     <Hero
+      className="hero-section"
       style={{ minHeight: `93vh` }}
       color="black"
       bg="#010101"
