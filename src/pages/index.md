@@ -7,16 +7,17 @@ description: >-
   like-minded creative agencies, and build exceptional products.
 offerings:
   blurbs:
-    - image: /img/coffee-gear.png
+    - heading: Web Development
+      image: /img/coffee-gear.png
       text: >-
-        ***Web Development***
-
         We design and develop websites that deliver outstanding user
         experiences. Our CMS platforms (Umbraco, WordPress & Sitecore) give you
         autonomy over content.
-    - image: /img/coffee.png
+    - heading: Web Development
+      image: /img/coffee.png
       text: sd dsf dsfdsdf dsf ds
-    - image: /img/meeting-space.png
+    - heading: Web Development
+      image: /img/meeting-space.png
       text: ds d fds fdsf dd fdsdsfds fdsf dsfdsfdfdsf
 testimonials:
   - author: Kenelm Nataniel
