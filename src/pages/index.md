@@ -30,6 +30,12 @@ offerings:
       text: >-
         Scrape from given sources with installation on your server and testing
         in less than 5 days.
+    - heading: Design Services
+      image: /img/design-services.jpg
+      text: >-
+        We craft and develop unique, powerful brands that engage and compel your
+        target audience via our range of print design, digital design and
+        branding services.
 testimonials:
   - author: Kenelm Nataniel
     quote: >-
