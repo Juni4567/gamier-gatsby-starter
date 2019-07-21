@@ -7,14 +7,17 @@ description: >-
   like-minded creative agencies, and build exceptional products.
 offerings:
   blurbs:
-    - image: /img/coffee-gear.png
-      heading: JUNI
-      text: dfdsf
-    - image: /img/coffee.png
-      heading: JUNI
+    - heading: Web Development
+      image: /img/coffee-gear.png
+      text: >-
+        We design and develop websites that deliver outstanding user
+        experiences. Our CMS platforms (Umbraco, WordPress & Sitecore) give you
+        autonomy over content.
+    - heading: Web Development
+      image: /img/coffee.png
       text: sd dsf dsfdsdf dsf ds
-    - image: /img/meeting-space.png
-      heading: JUNI
+    - heading: Web Development
+      image: /img/meeting-space.png
       text: ds d fds fdsf dd fdsdsfds fdsf dsfdsfdfdsf
 testimonials:
   - author: Kenelm Nataniel
@@ -27,3 +30,4 @@ meta_description: >-
   We at Gamier strive to bring you the smartest takes on topics that matter. We
   also upload free softwares books and games.
 ---
+
