@@ -25,27 +25,24 @@ const HomePageTemplate = ({
       <title>{meta_title}</title>
       <meta name="description" content={meta_description} />
     </Helmet>
-    <Hero color="black" bg="white" bgOpacity="0.5" backgroundImage={heroBg}>
-      <Heading>Welcome to Gamier</Heading>
-      <Subhead>a place full of programming ideas and hacks</Subhead>
-      <CallToAction href="/getting-started" mt={3}>
-        Get Started
-      </CallToAction>
-      <ScrollDownIndicator />
-    </Hero>
-    <section className="hero is-primary is-bold is-medium">
-      <div className="hero-body">
-        <div className="container">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className="section">
-                <h1 className="title">{title}</h1>
-              </div>
-            </div>
-          </div>
+    <Hero
+      style={{ minHeight: `93vh` }}
+      color="black"
+      bg="#010101"
+      bgOpacity="0.8"
+      backgroundImage={heroBg}
+    >
+      <div className="columns" style={{ color: `#fff` }}>
+        <div className="column is-10 is-offset-1">
+          <Heading className="hero-title">{title}</Heading>
+          <Subhead className="hero-subtitle">{description}</Subhead>
+          <CallToAction href="/contact" mt={3}>
+            Get Started
+          </CallToAction>
+          <ScrollDownIndicator />
         </div>
       </div>
-    </section>
+    </Hero>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
