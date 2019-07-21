@@ -20,26 +20,11 @@ module.exports = {
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sass",
     {
-      resolve: '@wyze/gatsby-plugin-google-analytics',
+      resolve: `gatsby-plugin-google-analytics`,
       options: {
-        gaPlugins: {
-          config: [
-            {
-              name: 'eventTracker',
-              options: {
-                events: [ 'click', 'contextmenu' ],
-                hitFilter: [
-                  '@@/ga-function',
-                  [ 'model', 'element', 'event', `model.set('eventAction', event.type, true)` ],
-                ],
-              },
-            },
-            'outboundLinkTracker',
-          ],
-          sources: 'js/autotrack.custom.js',
-        }
-        trackingId: 'UA-34694499-3',
-      },
+        // replace "UA-XXXXXXXXX-X" with your own Tracking ID
+        trackingId: "UA-34694499-3"
+      }
     },
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
