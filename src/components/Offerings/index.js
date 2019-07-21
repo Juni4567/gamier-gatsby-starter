@@ -11,7 +11,7 @@ const Offerings = ({ gridItems }) => (
       >
         <section className="section">
           <p className="has-text-centered">
-            <img alt="" src={item.image} />
+            <img alt={item.heading} src={item.image} />
           </p>
           <p>{item.text}</p>
           <p>{item.heading}</p>
@@ -25,6 +25,7 @@ Offerings.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
       image: PropTypes.string,
+      heading: PropTypes.string,
       text: PropTypes.string
     })
   )
