@@ -8,17 +8,23 @@ description: >-
 offerings:
   blurbs:
     - heading: Web Development
-      image: /img/coffee-gear.png
+      image: /img/laptop.png
       text: >-
         We design and develop websites that deliver outstanding user
         experiences. Our CMS platforms (Umbraco, WordPress & Sitecore) give you
         autonomy over content.
     - heading: Web Development
-      image: /img/coffee.png
-      text: sd dsf dsfdsdf dsf ds
+      image: /img/laptop.png
+      text: >-
+        We design and develop websites that deliver outstanding user
+        experiences. Our CMS platforms (Umbraco, WordPress & Sitecore) give you
+        autonomy over content.
     - heading: Web Development
-      image: /img/meeting-space.png
-      text: ds d fds fdsf dd fdsdsfds fdsf dsfdsfdfdsf
+      image: /img/laptop.png
+      text: >-
+        We design and develop websites that deliver outstanding user
+        experiences. Our CMS platforms (Umbraco, WordPress & Sitecore) give you
+        autonomy over content.
 testimonials:
   - author: Kenelm Nataniel
     quote: >-
@@ -30,3 +36,4 @@ meta_description: >-
   We at Gamier strive to bring you the smartest takes on topics that matter. We
   also upload free softwares books and games.
 ---
+
