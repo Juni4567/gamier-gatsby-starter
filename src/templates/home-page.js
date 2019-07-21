@@ -43,8 +43,8 @@ export const pageQuery = graphql`
         description
         offerings {
           blurbs {
-            image
             heading
+            image
             text
           }
         }
