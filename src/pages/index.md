@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 title: Welcome to Gamier
-heading: A place full of programming ideas and hacks
+heading: Our Services
 description: >-
   We design and deliver digital solutions for growing startups, join forces with
   like-minded creative agencies, and build exceptional products.
