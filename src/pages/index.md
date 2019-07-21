@@ -8,10 +8,13 @@ description: >-
 offerings:
   blurbs:
     - image: /img/coffee-gear.png
+      heading: JUNI
       text: dfdsf
     - image: /img/coffee.png
+      heading: JUNI
       text: sd dsf dsfdsdf dsf ds
     - image: /img/meeting-space.png
+      heading: JUNI
       text: ds d fds fdsf dd fdsdsfds fdsf dsfdsfdfdsf
 testimonials:
   - author: Kenelm Nataniel
@@ -24,4 +27,3 @@ meta_description: >-
   We at Gamier strive to bring you the smartest takes on topics that matter. We
   also upload free softwares books and games.
 ---
-
