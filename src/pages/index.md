@@ -19,12 +19,12 @@ offerings:
         We build bespoke software solutions with custom functionality on
         user-friendly interfaces, including CRM platforms, business apps and web
         portal solutions.
-    - heading: Web Development
-      image: /img/laptop.png
+    - heading: Marketing Services
+      image: /img/marketing-services.jpg
       text: >-
-        We design and develop websites that deliver outstanding user
-        experiences. Our CMS platforms (Umbraco, WordPress & Sitecore) give you
-        autonomy over content.
+        We provide an array of digital and creative marketing solutions
+        including PPC health checks, SEO support, email campaigns, branding and
+        design solutions.
 testimonials:
   - author: Kenelm Nataniel
     quote: >-
