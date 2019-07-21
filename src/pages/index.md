@@ -13,12 +13,12 @@ offerings:
         We design and develop websites that deliver outstanding user
         experiences. Our CMS platforms (Umbraco, WordPress & Sitecore) give you
         autonomy over content.
-    - heading: Web Development
-      image: /img/laptop.png
+    - heading: Software Development
+      image: /img/software-development.jpg
       text: >-
-        We design and develop websites that deliver outstanding user
-        experiences. Our CMS platforms (Umbraco, WordPress & Sitecore) give you
-        autonomy over content.
+        We build bespoke software solutions with custom functionality on
+        user-friendly interfaces, including CRM platforms, business apps and web
+        portal solutions.
     - heading: Web Development
       image: /img/laptop.png
       text: >-
