@@ -25,6 +25,11 @@ offerings:
         We provide an array of digital and creative marketing solutions
         including PPC health checks, SEO support, email campaigns, branding and
         design solutions.
+    - heading: Web Scraping & Automation
+      image: /img/web-scraping-and-automation.jpg
+      text: >-
+        Scrape from given sources with installation on your server and testing
+        in less than 5 days.
 testimonials:
   - author: Kenelm Nataniel
     quote: >-
