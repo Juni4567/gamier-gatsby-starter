@@ -17,38 +17,33 @@ meta_description: >-
   1. Add new field to netlify admin 2. Show field data on the frontend 3. Show
   the field value in the admin preview
 ---
-Add field to the admin
+## Add field to the admin
 
-\- Add field meta to static/admin/config.yml (field starts showing)
-
-\- Add your new field under the \`fields:\` object
-
-	(config.yml:26)
-
-\- Re-run the \`npm run start\` command
+* Add your new field under the \`fields:\` object in `static/admin/config.yml` (field starts showing)
+* Re-run the `npm run start` command
 
 
 
-Show field data on the frontend
+## Show field data on the frontend
 
-\- Find the graphql query in the parent component and bring the data of the newly added field into it
+* Find the graphql query in the parent component where you want to display the value of the field. In your graphql query put the name of the field you added in your config.yml to get the data of  the field; for me, it was `(home-page.js:36)`. 
+* Now if you are using the field value inside another component then you will have to pass it on via props to the child component; for me, it was `(home-page.js:12)`
+  * > (HomePageTemplate/index.js:14)	- Pass the props to the component for referencing inside the component
+* Inside the child component, set the correct proptype (Protoype is the data type e.g. `string or array or object`) 
+  * > (HomePageTemplate/index.js:74) - Define correct data type for the field
 
-		1(home-page.js:36)
+## Show the field value in the admin frontend
 
-		2(home-page.js:12)
-
-
-
-\- If the field is to be shown inside a child component then pass it on as props. Go inside the child component and set the correct proptype for it
-
-		1(HomePageTemplate/index.js:74) - Define correct data type for the field
-
-		2(HomePageTemplate/index.js:14)	- Pass the props to the component for referencing inside the component
+Pass the field data in the preview component via props. This will help in displaying the field value on page preview in realtime. For me it was: `(preview-templates/HomePagePreview.js:19)`
 
 
 
+That’s all you need to know I hope this article clears things up for you.
+
+Here is a video that makes more sense if you are not a good reader 😉
+
+<iframe width="1028" height="578" src="https://www.youtube.com/embed/t8uC0wodL20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Show the field value in the admin frontend
 
-	1(preview-templates/HomePagePreview.js:19)
+Thanks for reading. Did this article help you out? If it did, I hope you consider sharing it. You might help someone else out. Thanks so much!
