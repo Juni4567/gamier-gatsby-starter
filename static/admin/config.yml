@@ -21,8 +21,13 @@ collections:
               default: "home-page",
             }
           - { label: Title, name: title, widget: string }
-          - { label: Heading, name: heading, widget: string }
           - { label: Description, name: description, widget: string }
+          - { label: Services Heading, name: heading, widget: string }
+          - {
+              label: Services Description,
+              name: servicesDescription,
+              widget: string,
+            }
           - {
               label: Offerings,
               name: offerings,

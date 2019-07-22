@@ -76,6 +76,7 @@ HomePageTemplate.propTypes = {
   meta_description: PropTypes.string,
   heading: PropTypes.string,
   description: PropTypes.string,
+  servicesDescription: PropTypes.string,
   offerings: PropTypes.shape({
     heading: PropTypes.string,
     subheading: PropTypes.string,
