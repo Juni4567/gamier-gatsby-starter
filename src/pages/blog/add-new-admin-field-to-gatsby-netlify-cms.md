@@ -3,7 +3,7 @@ templateKey: article-page
 title: Add new admin field to gatsby + netlify CMS
 slug: add-new-admin-field-gatsby-netlify-cms
 date: 2019-07-22T12:20:31.893Z
-cover: /img/software-development.jpg
+cover: /img/add-new-admin-field-to-gatsby-netlify-cms.jpg
 tags:
   - netlify
   - cms
