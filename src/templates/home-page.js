@@ -15,6 +15,7 @@ const HomePage = ({ data }) => {
         meta_description={frontmatter.meta_description}
         heading={frontmatter.heading}
         description={frontmatter.description}
+        servicesDescription={frontmatter.servicesDescription}
         offerings={frontmatter.offerings}
         testimonials={frontmatter.testimonials}
       />
@@ -40,6 +41,7 @@ export const pageQuery = graphql`
         meta_title
         meta_description
         heading
+        servicesDescription
         description
         offerings {
           blurbs {
