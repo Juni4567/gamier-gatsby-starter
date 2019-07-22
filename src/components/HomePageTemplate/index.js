@@ -14,6 +14,7 @@ import heroBg from "../../assets/img/hero-bg.jpg";
 const HomePageTemplate = ({
   title,
   heading,
+  servicesDescription,
   description,
   offerings,
   meta_title,
@@ -54,7 +55,7 @@ const HomePageTemplate = ({
                   <h3 className="has-text-weight-semibold is-size-2">
                     {heading}
                   </h3>
-                  <p>{description}</p>
+                  <p>{servicesDescription}</p>
                 </div>
                 <Offerings gridItems={offerings.blurbs} />
                 <h2 className="has-text-weight-semibold is-size-2">

@@ -41,7 +41,6 @@ export const pageQuery = graphql`
         meta_description
         heading
         description
-        servicesDescription
         offerings {
           blurbs {
             heading
