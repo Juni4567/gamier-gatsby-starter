@@ -1,5 +1,6 @@
 import React from "react";
 import config from "../../../config";
+import { Link } from "gatsby";
 import logo from "../../assets/img/logo.svg";
 import socialIcons from "../../assets/img/social.png";
 
@@ -10,26 +11,28 @@ const Footer = () => {
         <div className="columns is-multiline">
           <div className="column is-4">
             <section className="section">
-              <img className="footer-logo" alt="Web Development" src={logo} />
+              <Link to="/">
+                <img className="footer-logo" alt="Web Development" src={logo} />
+              </Link>
             </section>
           </div>
           <div className="column is-4">
             <section className="section">
               <ul>
                 <li>
-                  <a href="/">Solutions</a>
+                  <Link to="/">Solutions</Link>
                 </li>
                 <li>
-                  <a href="/">HOW WE WORK</a>
+                  <Link to="/">HOW WE WORK</Link>
                 </li>
                 <li>
-                  <a href="/">FINTECH</a>
+                  <Link to="/">FINTECH</Link>
                 </li>
                 <li>
-                  <a href="/">Projects</a>
+                  <Link to="/">Projects</Link>
                 </li>
                 <li>
-                  <a href="/contact/">Contact</a>
+                  <Link to="/contact/">Contact</Link>
                 </li>
               </ul>
             </section>
@@ -50,8 +53,8 @@ const Footer = () => {
         <div className="content has-text-centered">
           <p>
             {config.copyright}{" "}
-            <a href="/terms-and-conditions">Terms and Conditions</a>{" "}
-            <a href="/privacy-policy">Privacy Policy</a>
+            <Link to="/terms-and-conditions">Terms and Conditions</Link>{" "}
+            <Link to="/privacy-policy">Privacy Policy</Link>
           </p>
         </div>
       </div>
