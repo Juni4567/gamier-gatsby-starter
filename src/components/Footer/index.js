@@ -20,16 +20,10 @@ const Footer = () => {
             <section className="section">
               <ul>
                 <li>
-                  <Link to="/">Solutions</Link>
+                  <Link to="/about">About us</Link>
                 </li>
                 <li>
-                  <Link to="/">HOW WE WORK</Link>
-                </li>
-                <li>
-                  <Link to="/">FINTECH</Link>
-                </li>
-                <li>
-                  <Link to="/">Projects</Link>
+                  <Link to="/how-we-work">HOW WE WORK</Link>
                 </li>
                 <li>
                   <Link to="/contact/">Contact</Link>
