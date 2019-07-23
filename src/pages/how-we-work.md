@@ -17,7 +17,7 @@ Here’s an insight into our process and approach to working on your product.
 
 ## Cooperation models
 
-<div class="container has-text-centered">
+<div class="has-text-centered">
 <div class="columns is-multiline">
 <div class="column is-6">
 <h2>Dedicated team</h2>
