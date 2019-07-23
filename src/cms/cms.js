@@ -12,3 +12,4 @@ CMS.registerPreviewTemplate("about", AboutPagePreview);
 CMS.registerPreviewTemplate("pricing", PricingPagePreview);
 CMS.registerPreviewTemplate("contact", ContactPagePreview);
 CMS.registerPreviewTemplate("blog", ArticlePreview);
+CMS.registerPreviewTemplate("customPages", AboutPagePreview);
