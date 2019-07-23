@@ -3,16 +3,33 @@ templateKey: about-page
 title: About Us
 meta_title: About us - Gamier
 meta_description: >-
-  Welcome to Gamier , we share ideas and free softwares to help each other grow.
-  We at Gamier strive to bring you the smartest takes on topics that matter. We
-  also upload free softwares books and games.
+  Gamier provide a range of innovative services including website design, app,
+  software and marketing solutions.
 ---
-## Welcome to Gamier
-
-A place full of programming ideas and hacks.
+Hello. Bonjour. Welcome. Gamier is a digital agency who deliver world-class web and software solutions tailored for your requirements. 
 
 ## Our Video
 
 <iframe width="971" height="546" src="https://www.youtube.com/embed/busHUh9qCB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-We at Gamier help you discover free software, books, games and technology.
+
+
+## Why Use Us?
+
+We don't do samey, average or boring. We do new, we do excellent and we do memorable.
+
+We at Gamier help you discover free software, books, games and technology. We are a close-knit team with an unrelenting desire to be the best we can be.
+
+
+
+## Cross-Industry Expertise
+
+Since 2013, we have developed solutions for over 100 clients spanning a diverse range of industries including travel, retail, automotive, legal and education. This has given us a real insight into various organisational models, processes and challenges, meaning that we are usually able to understand your complex business and technical requirements quite quickly.
+
+## Customer Care
+
+We pride ourselves on our high-level of customer care, and focus on building long-term relationships. Our office environment is warm and friendly, and this ethos is shared in our relationships with our clients.
+
+## Services
+
+We started out developing bespoke software systems for small businesses. Now, our quality digital offerings include website design and development, bespoke software development, custom travel technologies, app development, design, marketing and branding initiatives.
