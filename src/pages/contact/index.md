@@ -1,11 +1,14 @@
 ---
-templateKey: 'contact-page'
+templateKey: contact-page
 title: Contact Us
-subtitle: We'd Love To Help You, Feel Free To Drop A Mail
-meta_title: Contact Us | Gatsby Starter Business
+subtitle: >-
+  If you would like to make an enquiry, please use the form below and our
+  friendly team will get back to you within one business day. Alternatively, you
+  can email us at enquiries@csimedia.net
+meta_title: Contact Us - Gamier
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  If you would like to make an enquiry, please use the form below and our
+  friendly team will get back to you within one business day. Alternatively, you
+  can email us at enquiries@csimedia.net
 ---
+
