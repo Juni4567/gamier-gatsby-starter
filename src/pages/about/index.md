@@ -16,8 +16,6 @@ Hello. Bonjour. Welcome. Gamier is a digital agency who deliver world-class web 
 
 We don't do samey, average or boring. We do new, we do excellent and we do memorable.
 
-We at Gamier help you discover free software, books, games and technology. We are a close-knit team with an unrelenting desire to be the best we can be.
-
 ## Cross-Industry Expertise
 
 Since 2013, we have developed solutions for over 100 clients spanning a diverse range of industries including travel, retail, automotive, legal and education. This has given us a real insight into various organisational models, processes and challenges, meaning that we are usually able to understand your complex business and technical requirements quite quickly.
