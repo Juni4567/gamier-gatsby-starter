@@ -35,13 +35,19 @@ Add a file named phpinfo.php with the following code:
 ```
 
 Once you added that file, go to your website URL (https://www.yourSite.com/phpinfo.php) to see the PHP information.
+
+![php-7.1.14 screenshot](/img/php-7.1.14-screenshot.jpg "php-7.1.14-screenshot")
+
+
 In the above image, you can see that my app uses PHP version 7.1.14. Now that I know the PHP version let’s get to step 2.
 
 ## Step 2:
 
 You need ssh access to the ServerPilot server. Once you accessed the server run this command: `sudo su`
 
-> This command will give you root level access and now you can tweak anything. So navigate to the etc directory on the server and type ls and you’ll see something like the following image:
+> This command will give you root level access and now you can tweak anything. So navigate to the etc directory on the server and type `ls` and you’ll see something like the following image:
+
+![list directories with command line](/img/list-directories-with-command-line.jpg "List directories with command line")
 
 Notice that there are multiple versions of PHP that are installed, your’s may vary. Now since my app is using a php1.X version of PHP I need to cd into the PHP 1.X version in the ssh (serverPilot) has different naming style but trust me if you know your PHP version you’ll hit the right file right away.
 
