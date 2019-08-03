@@ -7,7 +7,6 @@ cover: /img/enable-php-allow_url_include-on-serverpilot.jpg
 tags:
   - Serverpilot
   - PHP
-  - ''
 meta_title: How to enable php allow_url_include on ServerPilot
 meta_description: >-
   You need ssh access to the ServerPilot server. Once you accessed the server
