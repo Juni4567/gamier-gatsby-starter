@@ -51,7 +51,11 @@ You need ssh access to the ServerPilot server. Once you accessed the server run 
 
 Notice that there are multiple versions of PHP that are installed, your’s may vary. Now since my app is using a php1.X version of PHP I need to cd into the PHP 1.X version in the ssh (serverPilot) has different naming style but trust me if you know your PHP version you’ll hit the right file right away.
 
-Let’s get into the `php7.1-sp` folder by typing `cd php7.1-sp` then `cd fpmpools.d` and there you’ll see files named as your app’s name. Get into the folder named as your app. My app’s name is one so I have a folder named `one.d` so I’ll do `cd one.d`. Create a file there calls it settings.conf by running this command: `touch settings.conf` and edit the file with any command line editor that is available to you by running `nano settings.conf` or `vim settings.conf`. Add the line `php_value[allow_url_include] = 1` and save the file.
+
+
+Let’s get into the `php7.1-sp` folder by typing `cd php7.1-sp` then `cd fpmpools.d` and there you’ll see files named as your app’s name. Get into the folder named as your app. My app’s name is one so I have a folder named `one.d` so I’ll do `cd one.d`. 
+
+Create a file there calls it settings.conf by running this command: `touch settings.conf` and edit the file with any command line editor that is available to you by running `nano settings.conf` or `vim settings.conf`. Add the line `php_value[allow_url_include] = 1` and save the file.
 
 ## Step 3:
 
