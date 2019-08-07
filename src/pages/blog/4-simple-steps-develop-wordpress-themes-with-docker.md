@@ -77,10 +77,7 @@ It'll download the following repositories for you:
 2. Mysql:5.7
 3. phpmyadmin
 
-
-After download is complete it'll start listening on port 7006 on your computer. Congratulations! you can verify that by going to localhost:7006 in any browser and you'll see a new WordPress setup page. You can also see your databases by opening localhost:7005 in your browser.
-
-
+After download is complete it'll start listening on port `7006` on your computer. Congratulations! you can verify that by going to `localhost:7006` in any browser and you'll see a new WordPress setup page. You can also see your databases by opening localhost:7005 in your browser.
 
 ## Develop your WordPress theme or plugin:
 
