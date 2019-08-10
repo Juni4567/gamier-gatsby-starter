@@ -19,6 +19,8 @@ A few days ago I found a client who was asking me to create a gallery with light
 
 Feel free to take a quick look at the [demo](http://juni4567.github.io/slick-photoswipe/) before continuing with the tutorial. Also, you can find the [finished code on GitHub](https://github.com/Juni4567/Slick-photoswipe).
 
+![Demo Photoswipe and Slick gallery lightbox](/img/slick-photoswipe-gallery-demo.gif)
+
 ## 1. The very first thing you need to do is download PhotoSwipe and Slick
 
 * You can download slick from their git repository or simply click [this link](https://github.com/dimsemenov/photoswipe).
