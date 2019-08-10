@@ -1,8 +1,8 @@
 ---
 templateKey: article-page
 title: Photoswipe and Slick gallery to make a nice gallery Lightbox
-slug: photoswipe-and-slick-gallery-with-a-nice-lightbox
-date: 2018-03-29T03:55:49.370Z
+slug: photoswipe-slick-gallery-to-make--nice-gallery-lightbox
+date: 2019-07-03T11:55:49.370Z
 cover: /img/photoswipe-with-slick-carousel.png
 tags:
   - Technology
