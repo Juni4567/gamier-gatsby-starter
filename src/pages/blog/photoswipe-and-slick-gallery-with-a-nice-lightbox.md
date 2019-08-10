@@ -11,31 +11,30 @@ tags:
   - slick carousel
 meta_title: Photoswipe and Slick gallery with a nice lightbox  - Gamier
 meta_description: >-
-  A few days ago I found a client who was asking me to create a gallery with
-  lightbox. He required a gallery that has the ability to have multiple rows and
-  is a carousel with clickable thumbnails; that when clicked opens in a light
-  box(full screen)
+  Slick image gallery with lightbox functionality. This carousel has a grid of
+  clickable thumbnails. Click on any thumbnail to open the image in a
+  Lightbox(full screen)
 ---
-A few days ago I found a client who was asking me to create a gallery with lightbox. He required a gallery that has the ability to have multiple rows and is a carousel with clickable thumbnails; that when clicked opens in a light box(full screen). There are really nice plugins that can be used to convert an ordinary list of images into a nice carousel. I am talking about using own carousel or bootstrap’s default carousel. but that does not solve the problem of showing thumbnails that can be clicked or I would say they have no image light box that can show the bigger version of the thumb. After having a search I found slick slider that has the ability to make as many rows in the carousel as you want. After that I had to find another plugin that can convert my thumbnails into clickable thumbs that opens a lightbox. I looked in google again and found photoswipe. I kept looking and ended up with Photoswipe and Slick gallery having all the features my client needed. I, Without any delay would like to show how I made this nice gallery with lightbox by combining photoswipe and slick together.
+A few days ago I found a client who was asking me to create a gallery with lightbox. He required a gallery that has the ability to have multiple rows and is a carousel with clickable thumbnails; that when clicked opens in a light box(full screen). There are really nice plugins that can be used to convert an ordinary list of images into a nice carousel. I am talking about using own carousel or bootstrap’s default carousel. but that does not solve the problem of showing thumbnails that can be clicked or I would say they have no image light box that can show the bigger version of the thumb. After having a search I found slick slider that has the ability to make as many rows in the carousel as you want. After that I had to find another plugin that can convert my thumbnails into clickable thumbs that opens a Lightbox. I looked in google again and found PhotoSwipe. I kept looking and ended up with PhotoSwipe and Slick gallery having all the features my client needed. I, Without any delay would like to show how I made this nice gallery with Lightbox by combining PhotoSwipe and slick together.
 
-Let me first tell you that both the plugins are opensource so you can use and modify them for your needs.
+Feel free to take a quick look at the [demo](http://juni4567.github.io/slick-photoswipe/) before continuing with the tutorial. Also, you can find the [finished code on GitHub](https://github.com/Juni4567/Slick-photoswipe).
 
-## 1. The very first thing you need to do is download Photoswipe and Slick
+## 1. The very first thing you need to do is download PhotoSwipe and Slick
 
 * You can download slick from their git repository or simply click [this link](https://github.com/dimsemenov/photoswipe).
-* If you did not find photoswipe here is their git repository url
+* If you did not find PhotoSwipe here is their git repository URL
 
 ## 2. Create the basic files for your gallery
 
 Now that you have downloaded both of the plugins you need create a folder( a project) where you will want to use these two plugins. the following is the folder structure you need to adapt.
 
 * Create a folder and name it whatever you want
-* Inside the folder paste your downloaded folders photoswipe and slick
+* Inside the folder paste your downloaded folders PhotoSwipe and slick
 * Create an index.html and basic html markup structure into it (if you are using sublime text it’s easy to create a basic markup structure in sublime text. Press (shift+1) and then press tab button.)
-* In your index.html include the required file for the plugins e.g. (photoswipe.css and photoswipe/default-skin/default-skin.css) and (slick.css and slick-theme.css)
-* create a scripts.js file a styles.css file and include them in your index.html
+* In your `index.html` include the required file for the plugins e.g. (`photoswipe.css` and `photoswipe/default-skin/default-skin.css`) and (`slick.css` and `slick-theme.css`)
+* Create a `scripts.js` file a `styles.css` file and include them in your `index.html`
 
-If you are unsure about your html and have done the 2 step successfully(created file structure as demonstarted in the image) then you can simply copy the following code and follow along.
+If you are unsure about your html and have done the 2 step successfully(created file structure as demonstrated in the image) then you can simply copy the following code and follow along.
 
 ```
 <!DOCTYPE html>
@@ -67,7 +66,7 @@ If you are unsure about your html and have done the 2 step successfully(created 
 
 The above code loads all the required files from the directory structure I mentioned before.
 
-## 3. Create our photoswipe lightbox with thumbnails and lightbox
+## 3. Create our PhotoSwipe Lightbox with thumbnails and lightbox
 
 The next step after setting all the structure up is to create a list of images for our gallery. I have saved you from finding images and adding their path to the html in the following code
 
@@ -93,7 +92,7 @@ The next step after setting all the structure up is to create a list of images f
  </div>
 ```
 
-This markup I got from photoswipe’s demo page and modified the image paths to dummy placeholder paths Now to make our lightbox function properly I am adding the photoswipe lightbox scripts to our scripts.js. here is the javascript code for it
+This markup I got from PhotoSwipe’s demo page and modified the image paths to dummy placeholder paths Now to make our lightbox function properly I am adding the PhotoSwipe lightbox scripts to our `scripts.js`. Here is the JavaScript code:
 
 ```
 $(document).ready(function(){
@@ -336,8 +335,8 @@ initPhotoSwipeFromDOM('#SlickPhotoswipGallery');
 });
 ```
 
-Note: I have wrapped my code inside scripts.js in jquery’s document.ready function just so it don’t get fired before our markup load.
+Note: I have wrapped my code inside `scripts.js` in jQuery’s `document.ready` function just so it don’t get fired before our markup load.
 
-## 4. Now that we have our Photoswipe plugin working let me move on and add our slick carousel into the game
+## 4. Add our slick carousel into the game
 
-The slick carousel is a really nice plugin for converting anything into a touch friendly carousel and all it needs is just load the plugin into your index.html and initialize it by targeting your gallery container with an id and append slick() with a dot in the end of your selector as you do in jquery like this `$(“#id”).slick();` The following is the code that you need to put in your `scripts.js` before our document.ready ends and after the photoswipe calls and you are good to see a nice photoswipe and slick gallery.
+The slick carousel is a really nice plugin for converting anything into a touch friendly carousel and all it needs is just load the plugin into your index.html and initialize it by targeting your gallery container with an id and append slick() with a dot in the end of your selector as you do in jquery like this `$(“#id”).slick();` The following is the code that you need to put in your `scripts.js` before our `document.ready` ends and after the PhotoSwipe calls and you are good to see a nice PhotoSwipe and slick gallery.
