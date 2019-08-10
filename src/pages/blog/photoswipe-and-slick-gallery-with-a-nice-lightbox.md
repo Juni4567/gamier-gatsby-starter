@@ -1,8 +1,8 @@
 ---
 templateKey: article-page
 title: Photoswipe and Slick gallery to make a nice gallery Lightbox
-slug: photoswipe-and-slick-gallery-with-a-nice-lightbox
-date: 2018-03-29T03:55:49.370Z
+slug: photoswipe-slick-gallery-to-make-nice-gallery-lightbox
+date: 2019-07-03T11:55:49.370Z
 cover: /img/photoswipe-with-slick-carousel.png
 tags:
   - Technology
@@ -14,7 +14,15 @@ meta_description: >-
   Slick image gallery with lightbox functionality. This carousel has a grid of
   clickable thumbnails. Click on any thumbnail to open the image in a Lightbox.
 ---
-A few days ago I found a client who was asking me to create a gallery with lightbox. He required a gallery that has the ability to have multiple rows and is a carousel with clickable thumbnails; that when clicked opens in a light box(full screen). There are really nice plugins that can be used to convert an ordinary list of images into a nice carousel. I am talking about using own carousel or bootstrap’s default carousel. but that does not solve the problem of showing thumbnails that can be clicked or I would say they have no image light box that can show the bigger version of the thumb. After having a search I found slick slider that has the ability to make as many rows in the carousel as you want. After that I had to find another plugin that can convert my thumbnails into clickable thumbs that opens a Lightbox. I looked in google again and found PhotoSwipe. I kept looking and ended up with PhotoSwipe and Slick gallery having all the features my client needed. I, Without any delay would like to show how I made this nice gallery with Lightbox by combining PhotoSwipe and slick together.
+One of my clients requested to create a Lightbox gallery. The feature requested were as following:
+
+* Ability to have multiple rows 
+* A carousel with clickable thumbnails
+* Click on any thumbnail to open the image in a Lightbox.
+
+There are really nice plugins that can be used to convert an ordinary list of images into a nice carousel. I am talking about using own carousel or bootstrap’s default carousel but that does not solve the problem.
+
+After doing a google search I found slick slider with the ability to make multi-row carousel. The second problem to make my thumbnails clickable to open the larger version of that image in a Lightbox. I found PhotoSwipe for that.
 
 Feel free to take a quick look at the <a href="http://juni4567.github.io/slick-photoswipe/" target="_blank">demo</a> before continuing with the tutorial. Also, you can find the <a href="https://github.com/Juni4567/Slick-photoswipe" target="_blank">finished code on GitHub</a>.
 
@@ -22,7 +30,7 @@ Feel free to take a quick look at the <a href="http://juni4567.github.io/slick-p
 
 ## 1. Download PhotoSwipe and Slick
 
-* You can download slick from their git repository or simply click [this link](https://github.com/dimsemenov/photoswipe).
+* You can download Slick from their git repository or simply click [this link](https://github.com/dimsemenov/photoswipe).
 * If you did not find PhotoSwipe here is their [git repository URL](https://github.com/dimsemenov/PhotoSwipe)
 
 ## 2. Create the necessary files for your gallery
@@ -387,4 +395,4 @@ We’ve covered a lot of ground in just 361 words. Here are a few bullets to sum
 
 Oh, let me know in the comments if you found this tutorial useful!
 
-Thanks for reading. Did this article help you out? If it did, I hope you consider [sharing it](https://twitter.com/share?text=Photoswipe%20and%20Slick%20gallery%20to%20make%20a%20nice%20gallery%20Lightbox%20by%20@juni4567%20%F0%9F%91%87%20&url=https://gamier.co.uk/blog/photoswipe-and-slick-gallery-with-a-nice-lightbox/). You might help someone else out. Thanks so much!
+Thanks for reading. Did this article help you out? If it did, I hope you consider [sharing it](https://twitter.com/share?text=Photoswipe%20and%20Slick%20gallery%20to%20make%20a%20nice%20gallery%20Lightbox%20by%20@juni4567%20%F0%9F%91%87%20&url=https://gamier.co.uk/blog/photoswipe-and-slick-gallery-with-a-nice-lightbox/). You might help someone else out. Thanks so much!
