@@ -1,15 +1,16 @@
 ---
 templateKey: article-page
-title: Bring Github Desktop App on Windows 10 - Gamier Guide
+title: Bring GitHub Desktop App Back To The First Screen On Windows 10
 slug: bring-github-desktop-app
 date: 2019-09-11T13:48:38.954Z
 cover: /img/install-github-desktop-app-on-windows-10.gif
 tags:
   - Github
   - Github Desktop App
+  - Bring Github Desktop App
   - Install Github Desktop
   - Windows 10
-meta_title: Bring Github Desktop App on Windows 10 - Gamier
+meta_title: Bring GitHub Desktop App Back To The First Screen On Windows 10
 meta_description: >-
   Looking for the solution on how to bring Github desktop app on windows 10?
   Here is the easy and simple Github desktop app guide to bring or install
