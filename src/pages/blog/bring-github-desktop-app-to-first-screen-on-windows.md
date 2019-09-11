@@ -14,9 +14,9 @@ meta_description: >-
   Here is the easy and simple Github desktop app guide to bring Github Desktop
   App Version on Windows 10
 ---
-Since the last few months, I have been facing the weird issue that how to bring Github Desktop App back to the first screen in Windows 10 where the app windows do not remember their position on the screen. This sucked very badly! But finally, I figured this out by myself and bring Github Desktop App back on my windows 10 screen.  
+Since the last few months, I have been facing the weird issue that how to bring Github Desktop App in Windows 10 where the app windows do not remember their position on the screen. This sucked very badly! But finally, I figured this out by myself and bring Github Desktop App back on my windows 10 screen.  
 
-Today I will share the procedure that how you can bring Github Desktop App back on your first screen in Windows 10 screen. But before that let's have a quick look at what is Github
+Today I will share the procedure that how you can bring Github Desktop App back on your Windows 10 screen. But before that let's have a quick look at what is Github
 
 ## **Getting started with Github and Github Desktop app:**
 
@@ -26,9 +26,9 @@ Github Desktop app is one of the Github repositories that allows the users to ac
 
 For using the Github, there is no daunting process. Register an account on Github and all set. 
 
-## **Bring Github Desktop App on Windows:**
+## **Bring Github Desktop App Back on Windows First Screen:**
 
-The main area of today discussion is how to bring Github desktop app back to your first screen on Windows 10. Follow the below strategy and bring Github desktop app on your windows screen in a blink of an eye. 
+The main area of today discussion is how to bring Github desktop app to the first screen of Windows 10. Follow the below strategy and bring Github desktop app on your windows screen in a blink of an eye. 
 
 ![Install Github Desktop App on Windows 10](/img/install-github-desktop-app-on-windows-10.gif "Install Github Desktop App on Windows 10")
 
@@ -40,7 +40,7 @@ _**Great, it’s back to your current screen. **_
 
 You also don’t need to plug back your second screen.
 
-Now bring Github desktop app on your Windows 10 first screen. If you face any issue or have any query, just comment down and I will get back to you. 
+Now bring Github desktop app on your Windows 10. If you face any issue or have any query, just comment down and I will get back to you. 
 
 ## **FAQ:**
 
