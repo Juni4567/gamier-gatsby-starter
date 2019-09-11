@@ -8,7 +8,7 @@ tags:
   - faster template
   - free blogger template
   - footer copyright text
-  - templatesyard free blogger template
+  - templatesyard
 meta_title: 'How To Remove Footer Copyright Text from the Faster Template? '
 meta_description: >-
   Do you want to remove Footer Copyright Text from the Faster Template? Here is
