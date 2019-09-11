@@ -1,7 +1,7 @@
 ---
 templateKey: article-page
-title: Install Github Desktop App on Windows 10 - Gamier Guide
-slug: Install-github-desktop-app
+title: Bring Github Desktop App on Windows 10 - Gamier Guide
+slug: bring-github-desktop-app
 date: 2019-09-11T13:48:38.954Z
 cover: /img/install-github-desktop-app-on-windows-10.gif
 tags:
@@ -9,11 +9,11 @@ tags:
   - Github Desktop App
   - Install Github Desktop
   - Windows 10
-meta_title: Install Github Desktop App on Windows 10 - Gamier
+meta_title: Bring Github Desktop App on Windows 10 - Gamier
 meta_description: >-
-  Looking for the solution on how to install Github desktop app on windows 10?
-  Here is the easy and simple Github desktop app guide to install Github Desktop
-  App Version on Windows 10
+  Looking for the solution on how to bring Github desktop app on windows 10?
+  Here is the easy and simple Github desktop app guide to bring or install
+  Github Desktop App Version on Windows 10
 ---
 Since the last few months, I have been facing the weird issue that how to install Github Desktop App in Windows 10 where the app windows do not remember their position on the screen. This sucked very badly! But finally, I figured this out by myself and install Github Desktop App back on my windows 10 screen.  
 
@@ -27,7 +27,7 @@ Github Desktop app is one of the Github repositories that allows the users to ac
 
 For using the Github, there is no daunting process. Register an account on Github and all set. 
 
-## **Install Github Desktop App on Windows:**
+## **Bring Github Desktop App on Windows:**
 
 The main area of today discussion is how to install Github desktop app. Follow the below strategy and install Github desktop app on your windows screen in a blink of an eye. 
 
@@ -37,7 +37,7 @@ The fix to bring your off-screen windows back to the screen is super simple. You
 
 ![Install Github Desktop App](/img/install-github-desktop-app.gif "Install Github Desktop App")
 
-_**Great, it’s back to your current screen. **_
+**_Great, it’s back to your current screen. _**
 
 You also don’t need to plug back your second screen.
 
@@ -49,7 +49,7 @@ Now install Github desktop app on your Windows 10. If you face any issue or have
 
 Github Desktop app is the version that can be installed on your windows screen and provide the facility to users to interact with the program using a visual interface. It offers the graphical user interface to the Git users for easy control and usage. 
 
-* ## **How do I install GitHub on Windows 10?**
+* ## **How do I bring GitHub on Windows 10?**
 
 Installing Github desktop app on windows 10 is no more difficult now. Just press **“Windows key + right arrow or Windows key + left arrow” **and your Github desktop app will be back on your Windows 10 screen. For complete procedure follow our guide. 
 
