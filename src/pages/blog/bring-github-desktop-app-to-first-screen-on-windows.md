@@ -30,7 +30,7 @@ For using the Github, there is no daunting process. Register an account on Githu
 
 ## **Bring Github Desktop App on Windows:**
 
-The main area of today discussion is how to install Github desktop app. Follow the below strategy and bring Github desktop app on your windows screen in a blink of an eye. 
+The main area of today discussion is how to bring Github desktop app. Follow the below strategy and bring Github desktop app on your windows screen in a blink of an eye. 
 
 ![Install Github Desktop App on Windows 10](/img/install-github-desktop-app-on-windows-10.gif "Install Github Desktop App on Windows 10")
 
@@ -38,7 +38,7 @@ The fix to bring your off-screen windows back to the screen is super simple. You
 
 ![Install Github Desktop App](/img/install-github-desktop-app.gif "Install Github Desktop App")
 
-_**Great, it’s back to your current screen. **_
+**_Great, it’s back to your current screen. _**
 
 You also don’t need to plug back your second screen.
 
