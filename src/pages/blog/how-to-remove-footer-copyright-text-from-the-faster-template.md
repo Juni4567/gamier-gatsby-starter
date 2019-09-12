@@ -14,11 +14,9 @@ meta_description: >-
   Do you want to remove Footer Copyright Text from the Faster Template? Here is
   the simple 5 step guide to remove footer copyright text from Faster template
 ---
-In this tutorial, I am going to show you how to remove footer copyright text from faster template by templatesyard free blogger template. You need to have basic knowledge of HTML/CSS and JavaScript. If you are comfortable with these three languages and want to learn something interesting then follow along. You are lazy like me? you can have the nulled version of templatesyard free blogger template. Simply just like our Facebook page and subscribe to our news feed. Send us a message and we will email the nulled faster template to you real quick, promise ;). You can view live Demo of the nulled faster theme.
+In this tutorial, I am going to show you how to remove footer copyright text from faster template by templatesyard free blogger template. You need to have basic knowledge of HTML/CSS and JavaScript. If you are comfortable with these three languages and want to learn something interesting then follow along. You are lazy like me? you can have the nulled version of templatesyard blogger template. Simply just like our Facebook page and subscribe to our news feed. Send us a message and we will email the nulled faster template to you real quick, promise ;). You can view live Demo of the [nulled faster theme](https://gamier-sora-jobs.blogspot.com/).
 
-## \*\*Step 1: Install the faster template by templatesyard free blogger template
-
-\*\*
+## **Step 1: Install the faster template by templatesyard free blogger template**
 
 You need to have the free version of the theme installed. Don’t worry if you don’t want to test this on your main blog. You can simply create a new blog and install the free version of the faster template there. After installing the faster template you need to view your blog to see the template applied. 
 
@@ -26,13 +24,11 @@ You need to have the free version of the theme installed. Don’t worry if you d
 
 > **NOTE:**
 >
->  EDITING BLOGGER THEME DIRECTLY IN THE BROWSER IS NOT A GOOD IDEA. YOU NEED A CODE EDITOR E.G. SUBLIME TEXT TO EDIT YOUR TEMPLATE. PLEASE BACKUP YOUR CURRENT THEME BEFORE YOU START EDITING.
+>  EDITING BLOGGER THEME DIRECTLY IN THE BROWSER IS NOT A GOOD IDEA. YOU NEED A CODE EDITOR E.G. [SUBLIME TEXT](https://www.sublimetext.com/) TO EDIT YOUR TEMPLATE. PLEASE BACKUP YOUR CURRENT THEME BEFORE YOU START EDITING.
 
 There are three blocks of code you need to replace to successfully change the footer copyright text without a redirect. Remember if you miss step you’ll have the redirect, so do it with full attention.
 
-## \*\*Step 2: Search for some encrypted code in your theme’s HTML code (block 1)
-
-\*\*
+## **Step 2: Search for some encrypted code in your theme’s HTML code (block 1)**
 
 This one was a hard nut to crack haha. I spent around 3 hours to figure it out. Go to your blogger admin and select theme -> edit HTML and search for eval(function or goto line number 115. Now select the code starting from eval(function till x4D'.split('|')))(inclusive) and press delete button. No worries that’s bad code and I have the alternative. Do not close the window and don’t scroll away cause we need to fill the space with some good in the following snippet.
 
@@ -48,9 +44,7 @@ This one was a hard nut to crack haha. I spent around 3 hours to figure it out. 
 
 After pasting the code you can verify it by opening your browser’s console window. You can press ctrl+shift+j. There you’ll see a text message saying: “Congratulations! Step 1 is done”.
 
-## \*\*Step 3: Search for some encrypted code in your theme’s HTML code(block 2)
-
-\*\*
+## **Step 3: Search for some encrypted code in your theme’s HTML code(block 2)**
 
 Next, you need to search for var _E9eGyc= and select all the code till eval(_E9eGyc);(inclusive). Delete it and don’t worry, there is a replacement code in the following block, copy and paste it.
 
@@ -60,9 +54,7 @@ var _0x1797=["","x74x65x78x74","x68x72x65x66","x61x74x74x72","x61","x66x69x6Ex64
 
 ![Step 3: Remove footer copyright text from faster template](/img/step-3-remove-footer-copyright-text-from-faster-template.gif "Step 3:Search for some encrypted code in your theme’s HTML code(block 2)")
 
-## \*\*Step 4: Search for some encrypted code in your theme’s HTML code(block 3)
-
-\*\*
+## **Step 4: Search for some encrypted code in your theme’s HTML code(block 3)**
 
 Next, you need to search for var _P0twUj= and select all the code until eval(_P0twUj);(inclusive). Delete it and don’t worry. paste the following code there.
 
@@ -74,9 +66,7 @@ var _0xa186=["x23x70x6Fx73x74x2Dx70x61x67x65x72x20x2Ex62x6Cx6Fx67x2Dx70x61x67x65
 
 > GREAT! YOU HAVE REMOVED THE BAD CODE THAT PREVENTS YOU FROM CHANGING THE COPYRIGHT TEXT(YOU CAN VERIFY THAT BY CHANGING THE COPYRIGHT TEXT TO WHATEVER YOU WANT IF YOU HAVE ISSUES PLEASE LET US KNOW IN THE COMMENTS).
 
-## \*\*Step 5: Change the copyright footer text to whatever you want
-
-\*\*
+## **Step 5: Change the copyright footer text to whatever you want**
 
 You have successfully removed the bad scripts from your faster template. Now you have to search for this line Crafted with. Remove the whole lines or modify it, you can do it safely now(since it’s simple HTML). The following image shows how to remove the footer copyright text and links from faster template:
 
