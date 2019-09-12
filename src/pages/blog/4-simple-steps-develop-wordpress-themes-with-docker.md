@@ -1,6 +1,6 @@
 ---
 templateKey: article-page
-title: 'Develop WordPress themes with docker [Complete Guide]'
+title: 'Develop WordPress Themes with Docker [Complete Guide]'
 slug: develop-wordpress-themes-with-docker
 date: 2019-08-07T07:19:57.940Z
 cover: /img/develop-wordpress-with-docker.jpg
@@ -9,7 +9,7 @@ tags:
   - docker-compose
   - wordpress
   - theme development
-meta_title: 'Develop WordPress themes with docker [Complete Guide]'
+meta_title: 'Develop WordPress Themes with Docker [Complete Guide]'
 meta_description: >-
   Here we have discussed the simple and easy procedure to develop WordPress
   Theme using docker. Even if you are a beginner you can develop your own
