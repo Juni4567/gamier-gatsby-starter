@@ -36,7 +36,7 @@ The fix to bring your off-screen windows back to the screen is super simple. You
 
 ![Install Github Desktop App](/img/install-github-desktop-app.gif "Install Github Desktop App")
 
-**_Great, it's back to your current screen_**
+Great, it's back to your current screen!
 
 You also don’t need to plug back your second screen.
 
@@ -50,7 +50,7 @@ Github Desktop app is the version that can be installed on your windows screen a
 
 * ## **How do I bring GitHub on Windows 10?**
 
-Bring Github desktop app on windows 10 is no more difficult now. Just press **Windows key + right arrow or Windows key + left arrow **and your Github desktop app will be back on your Windows 10 screen. For complete procedure follow our guide. 
+Bring Github desktop app on windows 10 is no more difficult now. Just press Windows key + right arrow or Windows key + left arrow and your Github desktop app will be back on your Windows 10 screen. For complete procedure follow our guide. 
 
 * ## **How do I install GitHub desktop on windows?**
 
