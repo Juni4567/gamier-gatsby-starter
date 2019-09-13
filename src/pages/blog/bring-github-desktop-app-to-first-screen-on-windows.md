@@ -1,7 +1,7 @@
 ---
 templateKey: article-page
 title: Bring GitHub Desktop App Back To The First Screen On Windows 10
-slug: bring-github-desktop-app-on-windows-10
+slug: bring-github-desktop-app-to-first-screen-on-windows
 date: 2019-09-11T13:48:38.954Z
 cover: /img/install-github-desktop-app-on-windows-10.gif
 tags:
