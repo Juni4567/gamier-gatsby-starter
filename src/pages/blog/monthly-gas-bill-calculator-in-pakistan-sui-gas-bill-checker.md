@@ -1,6 +1,6 @@
 ---
 templateKey: article-page
-title: Monthly Gas Bill Calculator In Pakistan - Sui Gas Bill Checker
+title: Monthly Gas Bill Calculator In Pakistan | Sui Gas Bill Checker
 slug: monthly-gas-bill-calculator
 date: 2019-09-13T15:31:13.876Z
 cover: /img/monthly-gas-bill-calculator.jpg
