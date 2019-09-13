@@ -45,8 +45,7 @@ Electricity Bill Calculator Works on a simple formula
 
 The energy E in kilowatt-hours (kWh) per day is equal to the power P in watts (W) times number of usage hours per day t divided by 1000 watts per kilowatt. Electricity Bill Calculator uses the following formula to calculate units consumed:
 
-E(kWh/day) = P(W) × t(h/day) / 1000(W/kW)**
-**
+E(kWh/day) = P(W) × t(h/day) / 1000(W/kW)
 
 ## **What Does EBC Cost Calculation Formula?**
 
@@ -54,8 +53,7 @@ EBC uses the following method to perform cost estimation
 
 The electricity cost per day in dollars is equal to the energy consumption E in kWh per day times the energy cost of 1 kWh in cents/kWh divided by 100 cents per dollar:
 
-Cost($/day) = E(kWh/day) × Cost(cent/kWh) / 100(cent/$)**
-**
+Cost($/day) = E(kWh/day) × Cost(cent/kWh) / 100(cent/$)
 
 Just put the previous Meter reading from your last bill. In the second field put the current reading. You will come to know about how many units were consumed and what is the cost of these units. This Software is designed for **IESCO** bill calculation. It gives 99 % accurate readings and the other 1% is due to the variation in the Taxation Value or Other Surcharges. You Can Download this software as Free Full Version.
 
