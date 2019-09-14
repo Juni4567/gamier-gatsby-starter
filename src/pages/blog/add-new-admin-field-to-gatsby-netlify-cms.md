@@ -60,7 +60,6 @@ Here is a video that makes more sense if you are not a good reader 😉
 * It loads only the small portion or chunks of the web to make it load faster and save the user time
 * Adding New blog post or content will save it not only on the website but will also update the version on Github
 * Netlify keeps on updating to provide the best user experience
-* 
 
 Thanks for reading. Did this article help you out? If it did, I hope you consider [sharing it](<https://twitter.com/share?text=Add%20new%20admin%20field%20to%20gatsby%20netlify%20CMS by @juni4567 👇 &url=https://gamier.co.uk/blog/add-new-admin-field-to-gatsby-netlify-cms/>). You might help someone else out. Thanks so much!
 
