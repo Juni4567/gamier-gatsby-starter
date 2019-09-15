@@ -5,7 +5,7 @@ module.exports = {
   siteUrl: "https://gamier.netlify.com", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
   siteDescription:
-    "Welcome to Gamier , we share ideas and free softwares to help each other grow. We at Gamier strive to bring you the smartest takes on topics that matter. We also upload free softwares books and games.", // Website description used for RSS feeds/meta description tag.
+    "Welcome to Gamier. We design and deliver digital solutions for growing startups, join forces with like-minded creative agencies, and build exceptional products. We also share ideas to bring you the smartest takes on topics that matter.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml",
   siteFBAppID: "", // FB Application ID for using app insights
   googleTagManagerID: "", // GTM tracking ID.

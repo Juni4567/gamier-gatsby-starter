@@ -13,6 +13,7 @@ const PostCard = ({posts}) => {
             key={post.id}
           >
             <p>
+              <img src={post.frontmatter.cover} style={{float: `left`, maxWidth: `330px`, marginRight: `20px`, marginBottom: `20px`}} alt=""/>
               <Link className='has-text-primary' to={post.fields.slug}>
                 {post.frontmatter.title}
               </Link>
@@ -24,7 +25,7 @@ const PostCard = ({posts}) => {
               <br />
               <br />
               <Link className='button is-small' to={post.fields.slug}>
-                                Keep Reading →
+                READ MORE
               </Link>
             </p>
           </div>
