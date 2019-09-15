@@ -1,10 +1,11 @@
 ---
 templateKey: about-page
-title: About Us
-meta_title: About us - Gamier
+title: We are Gamier
+meta_title: Bespoke web design and development | About Gamier
 meta_description: >-
-  Gamier provide a range of innovative services including website design, app,
-  software and marketing solutions.
+  Gamier provide a range of bespoke services including website design, app,
+  software and marketing solutions. We are working with businesses around the
+  globe.
 ---
 Hello. Bonjour. Welcome. Gamier is a digital agency who deliver world-class web and software solutions tailored for your requirements. 
 
