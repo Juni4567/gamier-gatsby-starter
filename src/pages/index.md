@@ -51,8 +51,9 @@ testimonials:
       to you, too.
 meta_title: Welcome to Gamier - a place full of programming ideas and hacks
 meta_description: >-
-  Welcome to Gamier , we share ideas and free softwares to help each other grow.
-  We at Gamier strive to bring you the smartest takes on topics that matter. We
-  also upload free softwares books and games.
+  Welcome to Gamier. We design and deliver digital solutions for growing
+  startups, join forces with like-minded creative agencies, and build
+  exceptional products. We also share ideas to bring you the smartest takes on
+  topics that matter.
 ---
 
