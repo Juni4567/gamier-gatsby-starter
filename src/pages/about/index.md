@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: We are gamier
+title: We are Gamier
 meta_title: Bespoke web design and development | About Gamier
 meta_description: >-
   Gamier provide a range of bespoke services including website design, app,
