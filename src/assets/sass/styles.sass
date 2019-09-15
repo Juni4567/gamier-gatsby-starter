@@ -109,3 +109,73 @@ nav
 .title
   color: #fff;
   line-height: 1.7;
+.form-radio,.form-checkbox
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    display: inline-block;
+    position: relative;
+    background-color: #f1f1f1;
+    color: #666;
+    top: 10px;
+    height: 30px;
+    width: 30px;
+    border: 0;
+    border-radius: 50px;
+    cursor: pointer;     
+    margin-right: 7px;
+    outline: none;
+
+.form-radio:checked::before, .form-checkbox:checked::before
+    position: absolute;
+    font: 13px/1 'Open Sans', sans-serif;
+    left: 11px;
+    top: 7px;
+    content: '\02143';
+    transform: rotate(40deg);
+
+.form-radio:hover, .form-checkbox:hover
+    background-color: #f7f7f7;
+
+.form-radio:checked, .form-checkbox:checked
+    background-color: #f1f1f1;
+
+label
+    font: 15px/1.7 'Open Sans', sans-serif;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    cursor: pointer;
+
+.form-checkbox
+    border-radius: 3px;
+
+
+
+.step-section
+    color: #858788;
+    font-size: 16px;
+    margin-bottom: 40px;
+
+.step-section-content
+    margin-bottom: 30px;
+
+.step-section-title
+    color: #444749;
+    font-family: inherit;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0;
+    margin-bottom: 5px;
+
+
+.step-section
+    p
+        color: #757778;
+
+.section .input, .section .textarea      
+  font-size: 15px;
+  height: auto;
+  padding: 17px 22px;
+  border-radius: 2px;
+  resize: none;
