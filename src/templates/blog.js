@@ -39,7 +39,7 @@ export default class BlogPage extends Component {
     return (
       <Layout>
         <Helmet>
-          <title>Blog | Gamier</title>
+          <title>Smartest takes on topics that matter | Gamier Blog</title>
           {/* Schema.org tags */}
           <script type="application/ld+json">
             {JSON.stringify(websiteSchemaOrgJSONLD)}
@@ -51,7 +51,7 @@ export default class BlogPage extends Component {
               <div className="columns">
                 <div className="column is-10 is-offset-1">
                   <div className="section">
-                    <h1 className="title">Blog</h1>
+                    <h1 className="title">Blog - Thoughts and news from the Gamier team </h1>
                   </div>
                 </div>
               </div>
