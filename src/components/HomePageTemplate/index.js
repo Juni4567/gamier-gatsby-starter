@@ -36,7 +36,7 @@ const HomePageTemplate = ({
     >
       <div className="columns" style={{ color: `#fff` }}>
         <div className="column is-10 is-offset-1">
-          <Heading className="hero-title">{title}</Heading>
+          <h1 className="hero-title">{title}</h1>
           <Subhead className="hero-subtitle">{description}</Subhead>
           <CallToAction href="/contact" mt={3}>
             Get Started
