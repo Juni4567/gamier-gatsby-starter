@@ -49,7 +49,7 @@ testimonials:
     quote: >-
       It’s happened to me. And if you’re reading this, chances are it’s happened
       to you, too.
-meta_title: Welcome to Gamier - a place full of programming ideas and hacks
+meta_title: Gamier - a place full of programming ideas and hacks
 meta_description: >-
   Welcome to Gamier. We design and deliver digital solutions for growing
   startups, join forces with like-minded creative agencies, and build
