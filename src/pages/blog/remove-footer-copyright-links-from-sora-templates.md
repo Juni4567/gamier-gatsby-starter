@@ -1,14 +1,14 @@
 ---
 templateKey: article-page
-title: 'Remove Footer Copyright Links From Sora Templates [100% Working]'
-slug: remove-footer-copyright-links-from-sora-templates
+title: 'Remove Footer Copyright Links From Sora Jobs Template [100% Working]'
+slug: remove-footer-copyright-links-from-sora-jobs-templates
 date: 2019-09-14T18:13:12.119Z
 cover: /img/remove-footer-copyright-links-from-sora-templates.png
 tags:
   - Sora
   - Blogger Templates
   - Footer Copyrights
-meta_title: 'Remove Footer Copyright Links From Sora Templates [100% Working]'
+meta_title: 'Remove Footer Copyright Links From Sora Jobs Template [100% Working]'
 meta_description: >-
   Follow this 100% Working Method and remove footer copyright links from Sora
   templates. Here is the complete step by step guide that can remove the footer
