@@ -7,3 +7,6 @@
 /2017/09/remove-Sora-copyright-without-redirecting-6-steps-working.html /blog/remove-sora-templates-copyright-without-redirecting/
 /blog/electricity-bill-calculator-how-to-calculate-your-electric-bill/ /blog/electricity-bill-calculator/
 /blog/remove-footer-copyright-links-from-sora-templates/ /blog/remove-footer-copyright-links-from-sora-jobs-templates
+
+# Redirect default Netlify subdomain to primary domain
+https://gamier.netlify.com/* https://gamier.co.uk/:splat 301!
