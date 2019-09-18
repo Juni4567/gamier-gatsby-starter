@@ -1,12 +1,12 @@
-/photoswipe-and-slick-gallery-with-a-nice-lightbox/ /blog/photoswipe-and-slick-gallery-with-a-nice-lightbox/
-/enable-php-allow_url_include-serverpilot/ /blog/how-to-enable-php-allow_url_include-on-serverpilot/
-/develop-a-wordpress-theme-plugin-with-docker4-simple-steps/ /blog/4-simple-steps-develop-wordpress-themes-with-docker/
-/develop-wordpress-theme-plugin-with-docker-simple-steps/ /blog/4-simple-steps-develop-wordpress-themes-with-docker/
-/category/photoswipe/ /blog/photoswipe-and-slick-gallery-with-a-nice-lightbox/
-/blog/photoswipe-and-slick-gallery-with-a-nice-lightbox/ /blog/photoswipe-slick-gallery-to-make-nice-gallery-lightbox/
-/2017/09/remove-Sora-copyright-without-redirecting-6-steps-working.html /blog/remove-sora-templates-copyright-without-redirecting/
-/blog/electricity-bill-calculator-how-to-calculate-your-electric-bill/ /blog/electricity-bill-calculator/
-/blog/remove-footer-copyright-links-from-sora-templates/ /blog/remove-footer-copyright-links-from-sora-jobs-templates
+/photoswipe-and-slick-gallery-with-a-nice-lightbox/ /blog/photoswipe-and-slick-gallery-with-a-nice-lightbox/ 301!
+/enable-php-allow_url_include-serverpilot/ /blog/how-to-enable-php-allow_url_include-on-serverpilot/ 301!
+/develop-a-wordpress-theme-plugin-with-docker4-simple-steps/ /blog/4-simple-steps-develop-wordpress-themes-with-docker/ 301!
+/develop-wordpress-theme-plugin-with-docker-simple-steps/ /blog/4-simple-steps-develop-wordpress-themes-with-docker/ 301!
+/category/photoswipe/ /blog/photoswipe-and-slick-gallery-with-a-nice-lightbox/ 301!
+/blog/photoswipe-and-slick-gallery-with-a-nice-lightbox/ /blog/photoswipe-slick-gallery-to-make-nice-gallery-lightbox/ 301!
+/2017/09/remove-Sora-copyright-without-redirecting-6-steps-working.html /blog/remove-sora-templates-copyright-without-redirecting/ 301!
+/blog/electricity-bill-calculator-how-to-calculate-your-electric-bill/ /blog/electricity-bill-calculator/ 301!
+/blog/remove-footer-copyright-links-from-sora-templates/ /blog/remove-footer-copyright-links-from-sora-jobs-templates 301!
 
 # Redirect default Netlify subdomain to primary domain
 https://gamier.netlify.com/* https://gamier.co.uk/:splat 301!
