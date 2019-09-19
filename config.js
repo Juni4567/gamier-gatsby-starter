@@ -1,8 +1,8 @@
 module.exports = {
-  siteTitle: "Welcome to Gamier - a place full of programming ideas and hacks", // Site title.
-  siteTitleAlt: "Gamier", // Alternative site title for SEO.
+  siteTitle: "Gamier - Building websites and desktop applications", // Site title.
+  siteTitleAlt: "Gamier - Building websites and desktop applications", // Alternative site title for SEO.
   siteLogo: "/icons/icon-512x512.png", // Logo used for SEO and manifest.
-  siteUrl: "https://gamier.netlify.com", // Domain of your website without pathPrefix.
+  siteUrl: "https://gamier.co.uk", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
   siteDescription:
     "We share ideas to bring you the smartest takes on topics that matter. Our insights relates to bespoke NodeJS development, WordPress best practices, blogger template tips and tricks and the world of programming in general.", // Website description used for RSS feeds/meta description tag.
