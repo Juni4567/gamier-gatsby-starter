@@ -8,7 +8,7 @@ module.exports = {
     "We share ideas to bring you the smartest takes on topics that matter. Our insights relates to bespoke NodeJS development, WordPress best practices, blogger template tips and tricks and the world of programming in general.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml",
   siteFBAppID: "", // FB Application ID for using app insights
-  googleTagManagerID: "", // GTM tracking ID.
+  googleTagManagerID: "GTM-K2L3WDB", // GTM tracking ID.
   disqusShortname: "gamier", // Disqus shortname.
   userName: "Junaid Anwar",
   userTwitter: "Juni4567",
