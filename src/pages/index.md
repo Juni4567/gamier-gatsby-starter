@@ -1,11 +1,15 @@
 ---
 templateKey: home-page
-title: Welcome to Gamier
+title: Welcome to Softaccotax
 description: >-
-  We design and deliver digital solutions for growing startups, join forces with
-  like-minded creative agencies, and build exceptional products.
+  Our specialist advisors pick up where our accounting team finishes. We help
+  London small businesses benchmark their performance against their competitors,
+  set next year’s budget and put together a quarterly cashflow model.        
+  Our accounting services not only help you plan for growth, but help you
+  achieve it by taking away as much of the distracting bookkeeping, payroll and
+  admin as possible.
 heading: Services
-servicesDescription: Our Digital Services
+servicesDescription: ' '
 offerings:
   blurbs:
     - heading: Web Development
@@ -44,16 +48,10 @@ offerings:
         Our bespoke travel technology solutions including travel websites, tour
         operator, travel and ticket booking systems have processed over £1.5
         billion during the past 20 years.
-testimonials:
-  - author: Kenelm Nataniel
-    quote: >-
-      It’s happened to me. And if you’re reading this, chances are it’s happened
-      to you, too.
-meta_title: Gamier - Building websites and desktop applications
+testimonials: []
+meta_title: Softaccotax - Accounts and Legal
 meta_description: >-
-  Welcome to Gamier. We design and deliver digital solutions for growing
-  startups, join forces with like-minded creative agencies, and build
-  exceptional products. We also share ideas to bring you the smartest takes on
-  topics that matter.
+  Our professionals have an in-depth understanding and complete grasp of the
+  corporate affairs of our clients
 ---
 
