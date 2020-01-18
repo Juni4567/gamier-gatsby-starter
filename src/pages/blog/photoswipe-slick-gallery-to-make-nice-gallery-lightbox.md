@@ -200,7 +200,7 @@ $(document).ready(function(){
 
  // find index of clicked item by looping through all child nodes
  // alternatively, you may define index via data- attribute
- var clickedGallery = clickedListItem.parentNode,
+ var clickedGallery = clickedListItem.parentNode.parentNode.parentNode.parentNode.parentNode,
  childNodes = clickedListItem.parentNode.childNodes,
  numChildNodes = childNodes.length,
  nodeIndex = 0,
