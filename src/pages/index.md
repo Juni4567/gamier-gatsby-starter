@@ -1,59 +1,52 @@
 ---
 templateKey: home-page
-title: Welcome to Gamier
+title: Welcome to Softaccotax
 description: >-
-  We design and deliver digital solutions for growing startups, join forces with
-  like-minded creative agencies, and build exceptional products.
+  Our specialist advisors pick up where our accounting team finishes. We help
+  London small businesses benchmark their performance against their competitors,
+  set next year’s budget and put together a quarterly cashflow model.        
+  Our accounting services not only help you plan for growth, but help you
+  achieve it by taking away as much of the distracting bookkeeping, payroll and
+  admin as possible.
 heading: Services
-servicesDescription: Our Digital Services
+servicesDescription: ' '
 offerings:
   blurbs:
-    - heading: Web Development
+    - heading: Accounting services
       image: /img/laptop.png
       text: >-
-        We design and develop websites that deliver outstanding user
-        experiences. Our CMS platforms (Umbraco, WordPress & Sitecore) give you
-        autonomy over content.
-    - heading: Software Development
+        Traditional accountants do a great job of the numbers, but that’s often
+        as far as the service goes.
+
+
+        Our specialist advisors pick up where our accounting team finishes. We
+        help London small businesses benchmark their performance against their
+        competitors, set next year’s budget and put together a quarterly
+        cashflow model.
+
+
+        Our accounting services not only help you plan for growth, but help you
+        achieve it by taking away as much of the distracting bookkeeping,
+        payroll and admin as possible.
+    - heading: Tax Acccountants
       image: /img/software-development.jpg
       text: >-
-        We build bespoke software solutions with custom functionality on
-        user-friendly interfaces, including CRM platforms, business apps and web
-        portal solutions.
-    - heading: Marketing Services
+        Striking the right balance between company taxation and personal
+        taxation is one of the key financial challenges that face small business
+        owners and entrepreneurs. Our team are on hand to help you keep your tax
+        returns bill to a minimum and advise on the best tax planning solutions
+        for the future.
+    - heading: Business Advice
       image: /img/marketing-services.jpg
       text: >-
-        We provide an array of digital and creative marketing solutions
-        including PPC health checks, SEO support, email campaigns, branding and
-        design solutions.
-    - heading: Web Scraping & Automation
-      image: /img/web-scraping-and-automation.jpg
-      text: >-
-        Scrape from given sources with installation on your server and testing
-        in less than 5 days.
-    - heading: Design Services
-      image: /img/design-services.jpg
-      text: >-
-        We craft and develop unique, powerful brands that engage and compel your
-        target audience via our range of print design, digital design and
-        branding services.
-    - heading: Travel Technology
-      image: /img/travel-technology.jpg
-      text: >-
-
-        Our bespoke travel technology solutions including travel websites, tour
-        operator, travel and ticket booking systems have processed over £1.5
-        billion during the past 20 years.
-testimonials:
-  - author: Kenelm Nataniel
-    quote: >-
-      It’s happened to me. And if you’re reading this, chances are it’s happened
-      to you, too.
-meta_title: Gamier - Building websites and desktop applications
+        We know that whilst accounts are key for all businesses, challenges and
+        opportunities go far beyond accounting. Clients worry about the costs of
+        using lawyers and prefer, where possible, to rely on a single set of
+        trusted advisers.
+testimonials: []
+meta_title: Softaccotax - Accounts and Legal
 meta_description: >-
-  Welcome to Gamier. We design and deliver digital solutions for growing
-  startups, join forces with like-minded creative agencies, and build
-  exceptional products. We also share ideas to bring you the smartest takes on
-  topics that matter.
+  Our professionals have an in-depth understanding and complete grasp of the
+  corporate affairs of our clients
 ---
 
